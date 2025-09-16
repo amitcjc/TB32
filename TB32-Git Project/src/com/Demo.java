@@ -15,5 +15,11 @@ public void login()
 	{
 System.out.println("DEMO");
 	}
+
+
+	public void addtocart()
+	{
+System.out.println("DEMO-- Add to cart");
+	}
 	
 }
