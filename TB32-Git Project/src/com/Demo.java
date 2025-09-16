@@ -21,5 +21,10 @@ System.out.println("DEMO");
 	{
 System.out.println("DEMO-- Add to cart");
 	}
+
+	public void addtoproduct()
+	{
+System.out.println("DEMO-- Add to product");
+	}
 	
 }
