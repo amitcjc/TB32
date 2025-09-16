@@ -11,4 +11,9 @@ public void reg()
 	System.out.println("This is REG");
 }
 
+public void login()
+	{
+System.out.println("DEMO");
+	}
+	
 }
